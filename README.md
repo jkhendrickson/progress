@@ -1,2 +1,2 @@
 # progress
-Progress bar for PHP console apps
+Progress bar for PHP console apps.
